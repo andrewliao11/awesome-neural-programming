@@ -15,17 +15,17 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 ## Papers
 
 ### Recommended
-- Neural Programmer-Interpreters, Scott Reed and Nando de Freitas, ICLR16 [[ArXiv](https://arxiv.org/abs/1511.06279)]
-- Making Neural Programming Architectures Generalize via Recursion, Jonathon Cai et al., ICLR17 [[Openreview](https://openreview.net/forum?id=BkbY4psgg)]
-- Learning to Represent Programs with Graphs, Miltiadis Allamanis et al., ICLR18 Conference [[Openreview](https://openreview.net/forum?id=BJOFETxR-)], [[ArXiv](https://arxiv.org/abs/1711.00740)]
-- Neural Task Programming: Learning to Generalize Across Hierarchical Tasks, Danfei Xu et al., ICRA18 [[ArXiv](https://arxiv.org/abs/1710.01813)]
-- Neural Scene De-rendering, Jiajun Wu et al., CVPR17 [[Paper](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)]
+- Neural Programmer-Interpreters, Scott Reed and Nando de Freitas, ICLR16, [[ArXiv](https://arxiv.org/abs/1511.06279)]
+- Making Neural Programming Architectures Generalize via Recursion, Jonathon Cai et al., ICLR17, [[Openreview](https://openreview.net/forum?id=BkbY4psgg)]
+- Learning to Represent Programs with Graphs, Miltiadis Allamanis et al., ICLR18, [[Openreview](https://openreview.net/forum?id=BJOFETxR-)], [[ArXiv](https://arxiv.org/abs/1711.00740)]
+- Neural Task Programming: Learning to Generalize Across Hierarchical Tasks, Danfei Xu et al., ICRA18, [[ArXiv](https://arxiv.org/abs/1710.01813)]
+- Neural Scene De-rendering, Jiajun Wu et al., CVPR17, [[Paper](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)]
 
 
 ### Related Papers
 
 #### learning algorithms
-- Neural Program Lattices, Chengtao Li et al., ICLR17 [[Openreview](https://openreview.net/forum?id=HJjiFK5gx)]
+- Neural Program Lattices, Chengtao Li et al., ICLR17, [[Openreview](https://openreview.net/forum?id=HJjiFK5gx)]
 - Neural GPUs Learn Algorithms, Łukasz Kaiser and Ilya Sutskever, ICLR16, [[ArXiv](https://arxiv.org/abs/1511.08228)]
 
 #### Natural Language Processing
@@ -33,12 +33,12 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 
 ### Program synthesis
 - Neuro-Symbolic Program Synthesis, Emilio Parisotto et al., ICLR17, [[ArXiv](https://arxiv.org/abs/1611.01855)]
-- DeepCoder: Learning to Write Programs, Matej Balog et al. ICLR17 [[Openreview](https://openreview.net/forum?id=ByldLrqlx)] [[ArXiv](https://arxiv.org/abs/1611.01989)]
+- DeepCoder: Learning to Write Programs, Matej Balog et al. ICLR17, [[Openreview](https://openreview.net/forum?id=ByldLrqlx)] [[ArXiv](https://arxiv.org/abs/1611.01989)]
 
 #### Other
 - Neural Program Meta-Induction, Jacob Devlin et al., NIPS17, [[ArXiv](https://arxiv.org/abs/1710.04157)]
-- TerpreT: A Probabilistic Programming Language for Program Induction, Alexander L. Gaunt et al., NIPS16 NAMPI Workshop [[ArXiv](https://arxiv.org/abs/1608.04428)]
-- Lifelong Perceptual Programming By Example, Alexander L. Gaunt et al., ICLR17 Workshop [[Openreview](https://openreview.net/forum?id=HJStZKqel)]
+- TerpreT: A Probabilistic Programming Language for Program Induction, Alexander L. Gaunt et al., NIPS16 NAMPI Workshop, [[ArXiv](https://arxiv.org/abs/1608.04428)]
+- Lifelong Perceptual Programming By Example, Alexander L. Gaunt et al., ICLR17 Workshop, [[Openreview](https://openreview.net/forum?id=HJStZKqel)]
 
 ## Licenses
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
