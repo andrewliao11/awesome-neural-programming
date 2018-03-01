@@ -31,9 +31,13 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 #### Natural Language Processing
 - From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood, Kelvin Guu et al., ACL17 [[ArXiv](https://arxiv.org/abs/1704.07926)]
 
-### Program synthesis
+#### Program synthesis
 - Neuro-Symbolic Program Synthesis, Emilio Parisotto et al., ICLR17, [[ArXiv](https://arxiv.org/abs/1611.01855)]
-- DeepCoder: Learning to Write Programs, Matej Balog et al. ICLR17, [[Openreview](https://openreview.net/forum?id=ByldLrqlx)] [[ArXiv](https://arxiv.org/abs/1611.01989)]
+- DeepCoder: Learning to Write Programs, Matej Balog et al., ICLR17, [[Openreview](https://openreview.net/forum?id=ByldLrqlx)] [[ArXiv](https://arxiv.org/abs/1611.01989)]
+- Neural Program Synthesis with Priority Queue Training, Daniel A. Abolafia et al., [[Openreview](https://openreview.net/forum?id=r1AoGNlC-)] [[ArXiv](https://arxiv.org/abs/1801.03526)], [[code](https://github.com/tensorflow/models/tree/master/research/brain_coder)]
+
+#### Program induction
+- Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision, Chen Liang et al., ACL17, [[ArXiv](https://arxiv.org/abs/1611.00020)]
 
 #### Other
 - Neural Program Meta-Induction, Jacob Devlin et al., NIPS17, [[ArXiv](https://arxiv.org/abs/1710.04157)]
