@@ -24,9 +24,10 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 
 ### Related Papers
 
-#### learning algorithms
+#### algorithmic program learning
 - Neural Program Lattices, Chengtao Li et al., ICLR17, [[Openreview](https://openreview.net/forum?id=HJjiFK5gx)]
 - Neural GPUs Learn Algorithms, Łukasz Kaiser and Ilya Sutskever, ICLR16, [[ArXiv](https://arxiv.org/abs/1511.08228)]
+- Parametrized Hierarchical Procedures for Neural Programming, Roy Fox et al., ICLR18 [[Openreview](https://openreview.net/forum?id=rJl63fZRb)]
 
 #### Natural Language Processing
 - From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood, Kelvin Guu et al., ACL17 [[ArXiv](https://arxiv.org/abs/1704.07926)]
