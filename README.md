@@ -5,6 +5,7 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 - [Workshops](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#workshops)
 - [Related Talks](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#related-talks)
 - [Papers](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#papers)
+- [Terminologies]()
 
 ## Workshops
 - [Neural Abstract Machines & Program Induction](https://uclmr.github.io/nampi/) (NAMPI) Workshop at NIPS 2016
