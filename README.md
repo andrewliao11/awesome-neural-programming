@@ -41,12 +41,15 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 
 #### Program induction
 - Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision, Chen Liang et al., ACL17, [[ArXiv](https://arxiv.org/abs/1611.00020)]
+- Using Program Induction to Interpret Transition System Dynamics, Svetlin et al., ICML2017 Workshop
+
 
 #### Other
 - Neural Program Meta-Induction, Jacob Devlin et al., NIPS17, [[ArXiv](https://arxiv.org/abs/1710.04157)]
 - TerpreT: A Probabilistic Programming Language for Program Induction, Alexander L. Gaunt et al., NIPS16 NAMPI Workshop, [[ArXiv](https://arxiv.org/abs/1608.04428)]
 - Lifelong Perceptual Programming By Example, Alexander L. Gaunt et al., ICLR17 Workshop, [[Openreview](https://openreview.net/forum?id=HJStZKqel)]
 - Dynamic Neural Program Embeddings for Program Repair, Ke Wang, et al. ICLR18, [[Openreview](https://openreview.net/forum?id=BJuWrGW0Z)]
+- Recent Advances in Neural Program Synthesis, Neel Kant
 
 
 ## Licenses
