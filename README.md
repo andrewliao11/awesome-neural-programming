@@ -12,6 +12,7 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 
 ## Related Talks
 - [2v2 Debate: *Interpretability is necessary in machine learning*](https://www.youtube.com/watch?v=2hW05ZfsUUo&t=198s), by Caruana, Simard, Weinberger, LeCun
+- [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q), by ALex Gaunt
 
 ## Papers
 
