@@ -4,6 +4,7 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 ## Table of Content
 - [Workshops](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#workshops)
 - [Related Talks](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#related-talks)
+- [Blog Posts](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#blog-posts)
 - [Papers](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#papers)
 - [Terminologies]()
 
@@ -13,6 +14,11 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 ## Related Talks
 - [2v2 Debate: *Interpretability is necessary in machine learning*](https://www.youtube.com/watch?v=2hW05ZfsUUo&t=198s), by Caruana, Simard, Weinberger, LeCun
 - [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q), by ALex Gaunt
+
+## Blog Posts
+
+- [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/), from Microsoft Research
+
 
 ## Papers
 
@@ -38,6 +44,7 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 - Neuro-Symbolic Program Synthesis, Emilio Parisotto et al., ICLR17, [[ArXiv](https://arxiv.org/abs/1611.01855)]
 - DeepCoder: Learning to Write Programs, Matej Balog et al., ICLR17, [[Openreview](https://openreview.net/forum?id=ByldLrqlx)] [[ArXiv](https://arxiv.org/abs/1611.01989)]
 - Neural Program Synthesis with Priority Queue Training, Daniel A. Abolafia et al., [[Openreview](https://openreview.net/forum?id=r1AoGNlC-)] [[ArXiv](https://arxiv.org/abs/1801.03526)], [[code](https://github.com/tensorflow/models/tree/master/research/brain_coder)]
+- Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis, Rudy Bunel et al., ICLR18, [[Openreview]](https://openreview.net/forum?id=H1Xw62kRZ)
 
 #### Program induction
 - Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision, Chen Liang et al., ACL17, [[ArXiv](https://arxiv.org/abs/1611.00020)]
