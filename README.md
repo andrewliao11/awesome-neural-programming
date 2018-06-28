@@ -2,14 +2,15 @@
 A curated list of awesome neural programming resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Table of Content
-- [Workshops](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#workshops)
+- [Workshops or Tutorial](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#workshops)
 - [Related Talks](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#related-talks)
 - [Blog Posts](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#blog-posts)
 - [Papers](https://github.com/andrewliao11/awesome-neural-programming/blob/master/README.md#papers)
 - [Terminologies]()
 
-## Workshops
+## Workshops or Tutorial
 - [Neural Abstract Machines & Program Induction](https://uclmr.github.io/nampi/) (NAMPI) Workshop at NIPS 2016
+- [Modelling Natural Language, Programs, and their Intersection](https://github.com/neubig/naacl18tutorial?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=NLP%20News) Tutorial at NAACL 2018
 
 ## Related Talks
 - [2v2 Debate: *Interpretability is necessary in machine learning*](https://www.youtube.com/watch?v=2hW05ZfsUUo&t=198s), by Caruana, Simard, Weinberger, LeCun
