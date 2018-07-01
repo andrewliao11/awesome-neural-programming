@@ -28,8 +28,6 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 - Making Neural Programming Architectures Generalize via Recursion, Jonathon Cai et al., ICLR17, [[Openreview](https://openreview.net/forum?id=BkbY4psgg)]
 - Learning to Represent Programs with Graphs, Miltiadis Allamanis et al., ICLR18, [[Openreview](https://openreview.net/forum?id=BJOFETxR-)], [[ArXiv](https://arxiv.org/abs/1711.00740)]
 - Neural Task Programming: Learning to Generalize Across Hierarchical Tasks, Danfei Xu et al., ICRA18, [[ArXiv](https://arxiv.org/abs/1710.01813)]
-- Neural Scene De-rendering, Jiajun Wu et al., CVPR17, [[Paper](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)]
-
 
 ### Related Papers
 
@@ -37,6 +35,13 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 - Neural Program Lattices, Chengtao Li et al., ICLR17, [[Openreview](https://openreview.net/forum?id=HJjiFK5gx)]
 - Neural GPUs Learn Algorithms, Łukasz Kaiser and Ilya Sutskever, ICLR16, [[ArXiv](https://arxiv.org/abs/1511.08228)]
 - Parametrized Hierarchical Procedures for Neural Programming, Roy Fox et al., ICLR18 [[Openreview](https://openreview.net/forum?id=rJl63fZRb)]
+
+#### Computer Vision
+- Neural Scene De-rendering, Jiajun Wu et al., CVPR17, [[Paper](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)]
+
+#### Reinforcement Learning
+- Programmatically Interpretable Reinforcement Learning, Abhinav Verma et al., ICML18, [[ArXiv](https://arxiv.org/abs/1804.02477)]
+
 
 #### Natural Language Processing
 - From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood, Kelvin Guu et al., ACL17 [[ArXiv](https://arxiv.org/abs/1704.07926)]
@@ -46,7 +51,7 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 - DeepCoder: Learning to Write Programs, Matej Balog et al., ICLR17, [[Openreview](https://openreview.net/forum?id=ByldLrqlx)] [[ArXiv](https://arxiv.org/abs/1611.01989)]
 - Neural Program Synthesis with Priority Queue Training, Daniel A. Abolafia et al., [[Openreview](https://openreview.net/forum?id=r1AoGNlC-)] [[ArXiv](https://arxiv.org/abs/1801.03526)], [[code](https://github.com/tensorflow/models/tree/master/research/brain_coder)]
 - Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis, Rudy Bunel et al., ICLR18, [[Openreview]](https://openreview.net/forum?id=H1Xw62kRZ)
-- Neural Program Synthesis from Diverse Demonstration Videos, Shao-Hua Sun et al., ICML2018, [[Project page]](https://shaohua0116.github.io/demo2program/)
+- Neural Program Synthesis from Diverse Demonstration Videos, Shao-Hua Sun et al., ICML18, [[Project page]](https://shaohua0116.github.io/demo2program/)
 
 #### Program induction
 - Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision, Chen Liang et al., ACL17, [[ArXiv](https://arxiv.org/abs/1611.00020)]
