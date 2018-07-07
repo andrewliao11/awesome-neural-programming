@@ -45,6 +45,7 @@ A curated list of awesome neural programming resources, inspired by [awesome-com
 
 #### Natural Language Processing
 - From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood, Kelvin Guu et al., ACL17 [[ArXiv](https://arxiv.org/abs/1704.07926)]
+- Language to code: Learning semantic parsers for if-this-then-that recipes, C. Quirk et al., ACL15, [[paper]](http://www.aclweb.org/anthology/P15-1085)
 
 #### Program synthesis
 - Neuro-Symbolic Program Synthesis, Emilio Parisotto et al., ICLR17, [[ArXiv](https://arxiv.org/abs/1611.01855)]
